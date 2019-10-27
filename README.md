@@ -1,6 +1,6 @@
 ## Blockchain
 
-A blockchain is a sequence of linked blocks. Each block contains the hash value of the previous block. A blockchain can be used as distributed ledger which records transactions in an efficient and verifiable way. Transactions in a block can not be modified without changing all subsequent hash values in the distributed copies of the blockchain.
+A blockchain is a sequence of linked blocks. Each block contains the hash value of the previous block. A blockchain can be used as distributed ledger which records transactions in an efficient and verifiable way. The transactions are signed and the set of transactions in a block cannot be modified without changing all subsequent hash values in the distributed copies of the blockchain.
 
 ![Blockchain](blockchain2.png)
 
